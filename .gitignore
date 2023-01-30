@@ -1,3 +1,18 @@
+# Custom ignores
+env/*
+tests/*
+plot/*
+src/add_metrics/deprecated/*
+src/lastCommit.txt
+notebooks/*.npy
+src/old/*
+src/gmail/*
+src/temp/*
+src/deprecated.py
+src/last_status_inputs_widget.csv
+model/*
+!model/placeholder.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
