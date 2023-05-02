@@ -1,0 +1,25 @@
+{
+    "medium": "SCD",
+    "ploidy": "Haploids",
+    "run_number": 2,
+    "replicates": {
+        "2020-07-28_ASY39-1_1": [
+            "SCD_0nM",
+            "SCD_15nM",
+            "SCD_60nM",
+            "SCD_150nM"
+        ],
+        "2020-10-09_ASY39-1_2": [
+            "SCD_0nM",
+            "SCD_15nM",
+            "SCD_60nM",
+            "SCD_150nM"
+        ],
+        "2020-10-15_ASY39-1_3": [
+            "SCD_0nM",
+            "SCD_15nM",
+            "SCD_60nM",
+            "SCD_150nM"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "medium": "SCGE",
+    "ploidy": "Diploids",
+    "run_number": 4,
+    "replicates": {
+        "2020-02-13_SCGE_Diploid_1": [
+            "2020-02-13_ASY15-1_0nM_SCGE",
+            "2020-02-13_ASY15-1_15nM_SCGE",
+            "2020-02-13_ASY15-1_60nM_SCGE"
+        ],
+        "2020-02-20_SCGE_Diploid_2": [
+            "2020-02-20_ASY15-1_0nM_SCGE",
+            "2020-02-20_ASY15-1_15nM_SCGE",
+            "2020-02-20_ASY15-1_60nM_SCGE"
+        ],
+        "2020-04-27_SCGE_Diploid_3": [
+            "2020-27-04_ASY15_SCGE_0nM",
+            "2020-27-04_ASY15_SCGE_15nM",
+            "2020-27-04_ASY15_SCGE_60nM"
+        ]
+    }
+}

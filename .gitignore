@@ -10,6 +10,10 @@ src/gmail/*
 src/temp/*
 src/deprecated.py
 src/last_status_inputs_widget.csv
+MitoGraph_vs_spotMAX/mitograph_data
+FusionFissionMutant/data
+Mic60/data
+NegativeControl.lnk
 model/*
 !model/placeholder.txt
 

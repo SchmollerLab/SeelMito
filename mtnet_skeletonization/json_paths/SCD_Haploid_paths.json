@@ -1,0 +1,25 @@
+{
+    "medium": "SCD",
+    "ploidy": "Haploid",
+    "run_number": 6,
+    "replicates": {
+        "2020-05-04_SCD_Haploid_1": [
+            "2020-05-04_ASY13-1_0nM_SCD",
+            "2020-05-04_ASY13-1_15nM_SCD",
+            "2020-05-04_ASY13-1_60nM_SCD",
+            "2020-05-04_ASY13-1_150nM_SCD"
+        ],
+        "2020-05-05_SCD_Haploid_2": [
+            "2020-05-05_ASY13_SCD_0nM",
+            "2020-05-05_ASY13_SCD_15nM",
+            "2020-05-05_ASY13_SCD_60nM",
+            "2020-05-05_ASY13_SCD_150nM"
+        ],
+        "2020-07-15_SCD_Haploid_3": [
+            "2020-07-15_ASY13-1_0nM_SCD",
+            "2020-07-15_ASY13-1_15nM_SCD",
+            "2020-07-15_ASY13-1_60nM_SCD",
+            "2020-07-15_ASY13-1_150nM_SCD"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "medium": "SCGE",
+    "ploidy": "Haploid",
+    "run_number": 4,
+    "replicates": {
+        "2020-05-07_SCGE_Haploid_1": [
+            "2020-05-05_ASY13-1_0nM_SCGE",
+            "2020-05-07_ASY13-1_10nM_SCGE",
+            "2020-05-07_ASY13-1_30nM_SCGE"
+        ],
+        "2020-07-09_SCGE_Haploid_2": [
+            "2020-07-09_ASY13-1_0nM_SCGE",
+            "2020-07-09_ASY13-1_10nM_SCGE",
+            "2020-07-09_ASY13-1_30nM_SCGE"
+        ],
+        "2020-09-24_SCGE_Haploid_3": [
+            "2020-09-24_ASY13-1_0nM_SCGE",
+            "2020-09-24_ASY13-1_10nM_SCGE",
+            "2020-09-24_ASY13-1_30nM_SCGE"
+        ]
+    }
+}
