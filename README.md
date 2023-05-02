@@ -21,11 +21,11 @@ Windows 10 64 bit, macOS > 10
 2. Run the command `python main_v1.py`
 3. You will be prompted to select the folder containing the data. For this demo select the folder SeelMito/data/TIFFs
 4. Follow instructions on the pop-up windows. Note that the pop-ups might be behind other open windows:
-    4a. Select channel mNeon (mtDNA signal)
-    4b. Select all 3 Positions
-    4c. Answer yes to the cell cycle annotations pop-up
-    4d. On the main parameters window click on "Load analysis inputs" and select the file SeelMito/data/6_v1_analysis_inputs.csv
-    4c. As reference channel select mKate (mitochondria signal)
+    1. Select channel mNeon (mtDNA signal)
+    2. Select all 3 Positions
+    3. Answer yes to the cell cycle annotations pop-up
+    4. On the main parameters window click on "Load analysis inputs" and select the file SeelMito/data/6_v1_analysis_inputs.csv
+    5. As reference channel select mKate (mitochondria signal)
 5. Wait for the analysis to end. At the end you get a window with 6 images. You can close that.
 6. Results are saved in SeelMito/data/spotMAX_v1_run-num1/3_AllPos_p-_ellip_test_TOT_data.csv.
 
