@@ -11,8 +11,8 @@ Windows 10 64 bit, macOS > 10
 2. Open a terminal and navigate to SeelMito folder (this folder)
 3. Update conda with `conda update conda`. Optionally, consider removing unused packages with the command `conda clean --all`
 4. Update pip with `python -m pip install --upgrade pip`
-5. Create a virtual environment with the command `conda create -n spotmax python=3.9`
-6. Activate the environment with the command `conda activate spotmax`
+5. Create a virtual environment with the command `conda create -n seel python=3.9`
+6. Activate the environment with the command `conda activate seel`
 7. Install all the dependencies with `pip install -r requirements.txt`
 
 # Demo
